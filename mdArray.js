@@ -14,7 +14,7 @@ function mdArray() {
     age4 = prompt("Enter the fourth age 5");
     age5 = prompt("Enter the fourth age 9");
 
-    multiArray = []
+    multiArray = [];
 
     subArray1.push(name1);
     subArray1.push(name2);
